@@ -19,8 +19,9 @@ This module is compatible with Android 8.0+ (All custom ROM's, not with stock).
 - [**Kuro Shi**](https://t.me/Kuro_Shi_Sama) modified the libs that fix green tint.
 - [**Ayush**](https://t.me/AyushR1) modified libs for lag fix.
 - [**Amogha**](https://t.me/amog787) modified FP keylayout files for goodix/fpc.
+- [**Abhishek**](https://t.me/BoogeyWoogey69) created the magisk module.
 
-Huge thanks to everyone in making this module possible !
+Huge thanks to everyone who helped to make this module possible !
 
 ## Special Thanks
 [***Zackptg5***](https://github.com/Zackptg5) and [***topjohnwu***](https://github.com/topjohnwu) for the template.
