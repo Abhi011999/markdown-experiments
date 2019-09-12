@@ -34,14 +34,6 @@ Huge thanks to everyone who helped to make this module possible !
 [***topjohnwu***](https://github.com/topjohnwu) for [magisk](https://github.com/topjohnwu/Magisk) and official [template](https://github.com/topjohnwu/magisk-module-installer).
 
 ## Changelogs
-### 1.0
-- Initial Release
-
-### 1.1
-- Reverted primary camera vendor blobs back to stock MIUI. This enables stock video recording on snapcam and also works with GCam 6.X (Currently Tested).
-- Added device check for kenzo and kate.
-- Changes to media_profiles.xml
-
 ### 1.2
 - Added 4k DCI support
 - Increased max ISO from 6400 to 12800
@@ -49,3 +41,11 @@ Huge thanks to everyone who helped to make this module possible !
 - Improved Denoising
 - Framerates are now constant when shooting videos
 - Changes to media_profiles.xml
+
+### 1.1
+- Reverted primary camera vendor blobs back to stock MIUI. This enables stock video recording on snapcam and also works with GCam 6.X (Currently Tested).
+- Added device check for kenzo and kate.
+- Changes to media_profiles.xml
+
+### 1.0
+- Initial Release
