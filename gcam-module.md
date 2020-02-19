@@ -5,7 +5,6 @@
   <!-- Version -->
   <img src="https://img.shields.io/badge/Version-1.4-informational?style=flat-square"
        alt="Version" />
-  <span> | </span>
   <!-- Last Commit -->
   <img src="https://img.shields.io/github/last-commit/Magisk-Modules-Repo/gcam_module_kenzo?style=flat-square"
        alt="Last Commit" />
