@@ -8,6 +8,9 @@
   <!-- Last Commit -->
   <img src="https://img.shields.io/github/last-commit/Magisk-Modules-Repo/gcam_module_kenzo?style=flat-square"
        alt="Last Commit" />
+  <!-- License -->
+  <img src="https://img.shields.io/badge/License-GPL%20v3-yellow?style=flat-square"
+       alt="License" />
 </div>
 
 This module fixes some issues currently encountered on Redmi Note 3 and Redmi Note 3 Pro when using modified Google Camera Version 5.x, 6.x and 7.x by replacing original cam libraries with modified one's.
@@ -42,6 +45,10 @@ Currently this module adds/replaces libs/files in `/system/apex`, `/system/etc`,
 ## Special Thanks
 - [***topjohnwu***](https://github.com/topjohnwu) for [magisk](https://github.com/topjohnwu/Magisk) and official [template](https://github.com/topjohnwu/magisk-module-installer).
 - [***Zackptg5***](https://github.com/Zackptg5) for [MMT-Extended](https://github.com/Zackptg5/MMT-Extended) template.
+
+## Support
+- Telegram Channel - https://t.me/modified_gcam_rn3
+- Telegram Group - https://t.me/rn3photography
 
 ## Changelogs
 ### 1.4
