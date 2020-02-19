@@ -1,15 +1,14 @@
 <h1 align="center">Google Camera Module</h1>
+<h2 align="center">for kenzo/kate devices</h2>
 
 <div align="center">
   <!-- Version -->
   <img src="https://img.shields.io/badge/Version-1.4-informational?style=flat-square&link=https://github.com/Magisk-Modules-Repo/gcam_module_kenzo/commits/master"
        alt="Version" />
-  <span> | </span>
   <!-- Last Commit -->
   <img src="https://img.shields.io/github/last-commit/Magisk-Modules-Repo/gcam_module_kenzo?style=flat-square"
        alt="Last Commit" />
 </div>
-<h2 align="center">for kenzo/kate devices</h2>
 
 This module fixes some issues currently encountered on Redmi Note 3 and Redmi Note 3 Pro when using modified Google Camera Version 5.x and 6.x by replacing original cam libraries with modified one's.
 It also enables some features not present in the system of custom ROMs.
