@@ -3,22 +3,23 @@
 
 <div align="center">
   <!-- Version -->
-  <img src="https://img.shields.io/badge/Version-1.4-informational?style=flat-square&link=https://github.com/Magisk-Modules-Repo/gcam_module_kenzo/commits/master"
+  <img src="https://img.shields.io/badge/Version-1.4-informational?style=flat-square"
        alt="Version" />
+  <span> | </span>
   <!-- Last Commit -->
   <img src="https://img.shields.io/github/last-commit/Magisk-Modules-Repo/gcam_module_kenzo?style=flat-square"
        alt="Last Commit" />
 </div>
 
 This module fixes some issues currently encountered on Redmi Note 3 and Redmi Note 3 Pro when using modified Google Camera Version 5.x, 6.x and 7.x by replacing original cam libraries with modified one's.
-It also enables some features not present in stock ROM or custom ROMs.
+It also enables some features not present in custom ROMs.
 
 ## Working
 Currently this module adds/replaces libs/files in `/system/apex`, `/system/etc`, `/system/lib`, `/system/lib64`, `/system/vendor/etc`, `system/vendor/lib`.
 
 ## Compatibility
-This module is compatible with Android 8.0+ (All custom ROM's, **NOT** with stock).
-
+- This module is compatible with Android 8.0+ (All custom ROM's, **NOT** with stock).
+- Module is compatible with following GCam versions - `5.x`, `6.x` and `7.x`.
 ## Current List of Features
 1. Enables 60 FPS video recording
 2. Fixes green tint on front camera
