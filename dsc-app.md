@@ -1,16 +1,3 @@
-<style>
-
-.h1 {
-    font-size: 50px;
-}
-
-.div {
-    font-size: 40px;
-}
-
-</style>
-
-
 <h1 align="center" class="h1"> DSC Web-App
 <div align="center" class="div">
 <a href="https://flutter.dev/">
@@ -28,7 +15,7 @@
 </h1>
 
 <p align="center">
-<img src="/docs/images/events.png" width="32%" alt="events"/>
-<img src="/docs/images/home1.png" width="34%" alt="home"/>
-<img src="/docs/images/coc.png" width="32%" alt="code of conduct"/>
+<img src="https://via.placeholder.com/1080x1920" width="32%" alt="events"/>
+<img src="https://via.placeholder.com/1080x1920" width="34%" alt="home"/>
+<img src="https://via.placeholder.com/1080x1920" width="32%" alt="code of conduct"/>
 </p>
